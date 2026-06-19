@@ -122,7 +122,7 @@ Anniversary, Raksha Bandhan, Holi, and Birthday occasions generate the highest s
 
 ## Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+<img width="935" height="587" alt="Image" src="https://github.com/user-attachments/assets/f367866e-85a4-4ea2-bb40-9c603653539d" />
 
 ---
 
